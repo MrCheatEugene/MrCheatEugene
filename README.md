@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MrCheatEugene
-- 👀 I’m interested in coding and doing weird things. And I hate frameworks in cases, when I can do everything in plain language(like, why do I need React to show hello world, whe n I can do this at plain JS?)
-- 🌱 I’m currently learning PHP/C+-/Frontend junk
+- I have a website(s)(a lot of): mrcheat.ga
+- CHRISTMAS/NEW YEAR LIVESTRAM EVENT!!! live.mrcheat.ga (use browser built-in translator)
 - 📫 How to reach me? DM me at Discord! mrcheat#9231
