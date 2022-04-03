@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MrCheatEugene
-- I make stuff
-- Like yeah, I make stuff
+- I make software and websites!
+- I don't know what to add here
 - 📫 How to reach me? DM me at Discord! undefined#9440 or on Tiktok: @emilmrcheat
