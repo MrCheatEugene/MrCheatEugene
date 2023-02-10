@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MrCheatEugene
-- 👩‍💻 I make software and websites!
+- 👩‍💻 I make software and websites in PHP, Python, JS, Java, C++, HTML, CSS. My stack is usually NGINX/FastAPI/Django and/or plain \*INSERT LANGUAGE NAME HERE\*.
 - 📷 I have a [photo hosting](https://dupix.art)!
-- 🤖 I make (Telegram bots)[https://t.me/vagina_size_bot] and [Discord bots]([https://](https://discord.com/oauth2/authorize?client_id=747114461361471589&permissions=8&scope=bot%20applications.commands))
-- 🤝 I've commited to @Florgon!
+- 🔫 This is not an advertisement, but I have an [Counter-Strike](steam://connect/188.120.239.206:27015) server!
+- 🤖 I make [Telegram bots](https://t.me/vagina_size_bot) and [Discord bots](https://discord.com/oauth2/authorize?client_id=747114461361471589&permissions=8&scope=bot%20applications.commands)
+- 🤝 I've commited to [Florgon](https://github.com/forgon)!
 - 📫 How to reach me? DM me at Discord (undefined#9440), text me in Telegram ([@Pomorgite](https://t.me/Pomorgite)), or E-mail me ([admin@mrcheat.org](mailto:admin@mrcheat.org))
