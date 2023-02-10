@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MrCheatEugene
-- 👩‍💻 I make software and websites in PHP, Python, JS, Java, C++, HTML, CSS. My stack is usually NGINX/FastAPI/Django and/or plain \*INSERT LANGUAGE NAME HERE\*.
+- 👩‍💻 I make software and websites in PHP, Python, JS, Java, C++, HTML, CSS, Pawn(AMXX) . My stack is usually Telebot/Telethon,NGINX/FastAPI/Django and/or plain \*INSERT LANGUAGE NAME HERE\*.
 - 📷 I have a [photo hosting](https://dupix.art)!
 - 🔫 This is not an advertisement, but I have an [Counter-Strike](steam://connect/188.120.239.206:27015) server!
 - 🤖 I make [Telegram bots](https://t.me/vagina_size_bot) and [Discord bots](https://discord.com/oauth2/authorize?client_id=747114461361471589&permissions=8&scope=bot%20applications.commands)
