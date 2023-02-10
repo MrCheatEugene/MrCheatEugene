@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @MrCheatEugene
-- I make software and websites!
-- I don't know what to add here
-- 📫 How to reach me? DM me at Discord! undefined#9440
+- 👩‍💻 I make software and websites!
+- 📷 I have a [photo hosting](https://dupix.art)!
+- 🤖 I make (Telegram bots)[https://t.me/vagina_size_bot] and [Discord bots]([https://](https://discord.com/oauth2/authorize?client_id=747114461361471589&permissions=8&scope=bot%20applications.commands))
+- 🤝 I've commited to @Florgon!
+- 📫 How to reach me? DM me at Discord (undefined#9440), text me in Telegram ([@Pomorgite](https://t.me/Pomorgite)), or E-mail me ([admin@mrcheat.org](mailto:admin@mrcheat.org))
